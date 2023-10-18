@@ -1,0 +1,620 @@
+@media only screen and (min-width:200px) and (max-width: 409px){
+  .main{
+    height: 100%;
+       flex-direction: column-reverse;
+       padding: 10px;
+       width: auto;
+      
+       transition: 0.6s;
+       padding:40px;
+       transition: .7s;
+      }
+
+       
+
+      header{
+          
+        padding: 0 20px;
+        
+       
+      }
+
+
+      .logo{
+        font-size: 15px;
+        
+      }
+      
+      
+      
+  
+      
+
+     .main-para{
+      font-size: 15px;
+      width: 70px;
+      padding: 10px 0 0 0;
+     
+
+     
+     
+    }
+
+
+    .sec-para-main{
+     
+      width: 200px;
+      font-family: 'Dancing Script', cursive;
+      line-height: 25px;
+      padding: 0 0 10px 0;
+      
+    }
+
+    .main-button{
+     margin-left: 20px;
+      
+    }
+
+
+    .third-para-main {
+     margin-left: 20px;
+    }
+
+    .main-image img{
+      width:200px;
+     
+      
+      
+     
+     
+    }
+    
+
+
+    .main-para{
+      font-size: 20px;
+      width: auto;
+     
+     
+    }
+
+   section{
+    flex-direction: column;
+   }
+
+
+   .About-company{
+        
+    padding: 10px;
+    
+  
+  }
+
+
+  .my-image {
+    width: 100%;
+
+   }
+
+   .intro{
+
+    flex-direction: column;
+    
+     
+     
+    }
+
+
+    .intro-paras{
+
+        
+      padding: 10px;
+     
+    
+      
+    
+     }
+
+     .communicate-items{
+       
+        
+        
+      flex-direction: column-reverse;
+     
+    }
+
+
+    .commu-para{
+  
+      padding: 10px;
+      
+      
+    }
+
+
+    .commu-image{
+      width: 100%
+      
+    }
+
+
+    .services{
+       
+      flex-wrap: wrap;
+      width: auto;
+        
+       
+      }
+      
+
+      .sevices-items{
+        flex-basis: 100%;
+      
+    
+    }
+
+
+    .fotter-part{
+      flex-direction: column;
+      padding: 10px;
+    }
+
+      .fotter-write p{
+       
+        width: auto;
+       margin-bottom: 10px;
+      }
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:410px) and (max-width: 560px){
+    .main{
+      height: 100%;
+         flex-direction: column-reverse;
+         padding: 30px;
+         height: auto;
+         transition: 0.6s;
+
+        
+        
+        }
+
+        header{
+          
+          padding: 0 30px;
+         
+        }
+      
+
+
+  
+      .menu-bar img{
+        height: auto;
+     }
+  
+  
+  
+     .main-image img{
+      width:400px;
+      
+      
+    }
+
+
+    .main-para{
+        font-size: 30px;
+        width: auto;
+       
+       
+      }
+      
+
+      section{
+        flex-direction: column;
+      }
+
+
+      .About-company{
+        
+        padding: 20px;
+        
+      
+      }
+
+
+      .my-image {
+        width: 100%;
+    
+       }
+
+      .intro{
+
+        flex-direction: column;
+        
+       }
+
+
+
+       .intro-paras{
+
+        
+        padding: 20px;
+       
+      
+        
+      
+       }
+
+       .services{
+       
+      flex-wrap: wrap;
+      width: auto;
+        
+       
+      }
+      
+
+      .sevices-items{
+        flex-basis: 100%;
+      
+    
+    }
+
+
+    .communicate-items{
+       
+        
+        
+        flex-direction: column-reverse;
+       
+      }
+      
+
+
+
+
+
+    .commu-para{
+  
+        padding: 20px;
+        
+        
+      }
+
+
+      .commu-image{
+        width: 100%
+        
+      }
+
+
+      .fotter-part{
+        flex-direction: column;
+        padding: 20px;
+       
+        
+        
+      }
+
+      .fotter-write p{
+       
+        width: auto;
+       margin-bottom: 10px;
+        
+       
+        
+      }
+      
+      .marketing-button{
+        
+      margin-top: 20px;
+    
+      }
+
+      .write{
+
+        
+        padding: 40px  ;
+        
+      }
+
+
+      .write h2{
+
+        padding: 0px 0px 10px 0 ;
+       
+      
+        
+      }
+      
+     
+     
+ 
+}
+  
+@media only screen and  (min-width:561px) and (max-width: 800px){
+
+    .main{
+      
+      width: 100%;
+       
+        padding: 40px 30px;
+        height: auto;
+        transition: .6s;
+
+       
+       
+       }
+
+       header{
+        padding:30px;
+       }
+
+       .main-image img{
+        width: 300px;
+      
+        
+        
+        
+      }
+
+      .main-para{
+        font-size: 25px;
+        
+        width: auto;
+       
+       
+      }
+
+      section{
+        flex-direction: column;
+        width: 100%;
+      }
+
+      .sec-para-main{
+       
+        width: auto;
+       
+
+       
+        
+      }
+
+      .About-company{
+        
+        padding: 20px;
+        
+      
+      }
+
+      .my-image {
+        width: 100%;
+    
+       }
+
+      .intro{
+
+        flex-direction: column;
+        
+       }
+
+
+       .intro-para-one,.intro-para-two{
+       
+        font-size: 15px;
+      
+       }
+
+       .services{
+       
+        flex-wrap: wrap;
+        width: auto;
+          
+         
+        }
+        
+  
+        .sevices-items{
+          flex-basis: 48%;
+        
+      
+      }
+
+      .communicate-items{
+       
+        
+        
+        flex-direction: column-reverse;
+       
+      }
+      
+
+
+
+
+
+    .commu-para{
+  
+        padding: 20px;
+        
+        
+      }
+
+
+      .commu-image{
+        width: 100%;
+        
+      }
+
+      .fotter-part{
+        flex-direction: column;
+        padding: 20px;
+       
+        
+        
+      }
+      
+
+      .fotter-write p{
+       
+        width: auto;
+       margin-bottom: 10px;
+        
+       
+        
+      }
+
+
+
+      
+      
+   
+
+
+    
+}
+
+
+
+@media only screen and  (min-width:801px) and (max-width: 1100px){
+  .main{
+      
+    width: 100%;
+     
+      padding: 70px 30px;
+      height: auto;
+      transition: .6s;
+
+     
+     
+     }
+
+
+     header{
+      padding: 30px;
+     }
+
+     .main-image img{
+      width: 400px;
+    
+      
+      
+      
+    }
+
+    .main-para{
+      font-size: 30px;
+      width: auto;
+     
+     
+    }
+  
+
+
+   .box{
+   
+   height: 100%;
+   
+  
+    padding:20px 20px
+  }
+
+
+ 
+
+  .About-company{
+    /* width: 1170px; */
+    /* margin: auto; */
+    
+   
+    padding: 70px 40px;
+    
+  
+  }
+
+
+  
+ .intro{
+
+  
+  transition: 4s;
+  
+  
+  width: 100%;
+  
+ }
+
+
+ .my-image {
+  height:500px;
+  
+ 
+
+  
+
+    
+ }
+
+ .intro-paras{
+
+
+  padding: 20px;
+  height: auto;
+ 
+
+  
+
+ }
+
+ .intro-hed{
+  font-size: 20px;
+ }
+
+.services{
+  padding: 5px;
+}
+
+
+
+ .commu-para{
+  
+  padding: 40px 40px;
+  width: auto;
+ 
+  
+}
+
+.commu-image{
+   width: 400px;
+  height: 100%;
+  
+}
+
+
+.fotter-write p{
+ 
+  width: 400px;
+ 
+  
+}
+.fotter-part{
+ 
+  padding: 30px 100px;
+  
+}
+
+ 
+
+}
